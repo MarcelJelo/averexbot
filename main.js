@@ -9,4 +9,4 @@ client.events = new Discord.Collection();
 });
 
 // bot token
-client.login('ODI4NjM3ODk0ODEzMTU1Mzk5.YGsfLQ.1NqdWuhBTBiXsSocXVr7_0gHxoQ');
+client.login('TOKEN');
